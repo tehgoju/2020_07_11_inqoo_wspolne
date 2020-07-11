@@ -16,13 +16,16 @@ public class Obliczenia {
         suma = a + b;
         System.out.println("Suma = " + suma);
 
-//       n = 2;
-//        potega = Math.pow(double a, double n);
-//        System.out.println("Potęga sumy = " + potega);
-
+        n = 2;
+        potega = pow(a,n);
+        System.out.println("Potęga sumy = " + potega);
 
         pierwiastek = Math.sqrt(suma);
         System.out.println("Pierwiastek sumy = " + pierwiastek);
+    }
+
+    private static double pow(double a, double n) {
+        return a;
     }
 
 
