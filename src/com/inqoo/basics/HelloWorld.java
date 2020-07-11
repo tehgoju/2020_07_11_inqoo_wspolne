@@ -8,3 +8,4 @@ public class HelloWorld {
 
     }
 }
+// stworz nowa klase Obliczenia w tej klasie zapytaj o dwie liczby (a i b)
