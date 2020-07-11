@@ -21,8 +21,8 @@ public class Obliczenia {
         double pierwiastek = Math.sqrt(suma);
 
         System.out.println("Suma równa się: " + suma);
-        System.out.println("Potęga równa się: " + potega);
-        System.out.println("Pierwiastek równa się: " + pierwiastek);
+        System.out.println("Potęga sumy tych liczb to: " + potega);
+        System.out.println("Pierwiastek sumy tych liczb to: " + pierwiastek);
 
 
 
