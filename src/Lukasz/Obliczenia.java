@@ -2,7 +2,6 @@ package Lukasz;
 
 
 
-
 import java.util.Scanner;
 
 public class Obliczenia {
