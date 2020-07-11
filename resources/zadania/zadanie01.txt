@@ -3,3 +3,4 @@
 3. Wypisac sume tych liczb
 4. Sume tych liczb podnosimy do potegi 2 - wypisujemy to
 5. Z sumy tych liczb policzyc pierwiastek kwadratowy - wypisujemy to
+6.* Wypisz tą liczbę która jest większa
