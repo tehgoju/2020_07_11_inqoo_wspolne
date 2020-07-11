@@ -1,0 +1,5 @@
+1. Stworzyć klasę Obliczenia w pakiecie ktory jako nazwe ma Wasze imie
+2. Zapytac uzytkownika o dwie liczby (a i b) - liczby calkowite
+3. Wypisac sume tych liczb
+4. Sume tych liczb podnosimy do potegi 2 - wypisujemy to
+5. Z sumy tych liczb policzyc pierwiastek kwadratowy - wypisujemy to
